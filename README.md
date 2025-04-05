@@ -4,7 +4,7 @@
 ---
 
 ## 📌 About Me  
-Hi, I’m **Jay! **, a Front-End Developer with a background in **Industrial Chemistry**. My journey from science to tech was fueled by my passion for **problem-solving** and **technology**. With a strong foundation in analytical thinking, I now specialize in **building intuitive and accessible web interfaces**.  
+Hi, I’m **Jay!**, a Front-End Developer with a background in **Industrial Chemistry**. My journey from science to tech was fueled by my passion for **problem-solving** and **technology**. With a strong foundation in analytical thinking, I now specialize in **building intuitive and accessible web interfaces**.  
 
 ---
 
