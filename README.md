@@ -39,4 +39,4 @@ Hi, I’m **Jay!**, a Front-End Developer with a background in **Industrial Chem
 
 ## 📬 Let's Connect!  
 📧 Email: evianojamesc@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/eviano-james-60083b15b/)   
+💼 [LinkedIn](https://www.linkedin.com/in/james-eviano-60083b15b/)   
