@@ -15,7 +15,7 @@ Hi, I’m **Jay!**, a Front-End Developer with a background in **Industrial Chem
 
 ---
 ## 📜 Certifications  
-- [**ALX Professional Foundations**](Your-ALX-Certification-Link) – *ALX Africa* *(In Progress)*  
+- [**ALX Professional Foundations**](https://drive.google.com/file/d/17TIr49-pt4ivs34idK1gUTvprGzXdjbs/view?usp=sharing) – *ALX Africa* *(2025)*  
 - [**Front-End Development Certificate**](Your-Front-End-Certification-Link) – *ALX Africa* *(In Progress)*  
 - [**UI/UX Design Basics**](https://drive.google.com/file/d/18WktKWUCQIYp2hSg8x-7jwzIs5ANst-q/view?usp=sharing) – *[Coursera]* *(2023)*
 - [**ALX AI Starter Kit**](https://drive.google.com/file/d/1zoQu4rocTuoBbpg1xL5Arss57pT2EQyd/view?usp=sharing) – *ALX Africa* (2025)
